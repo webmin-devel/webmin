@@ -1,7 +1,7 @@
 ## Contents
 * [Changelog](https://github.com/webmin-devel/webmin/blob/master/CHANGELOG.md)
 * [About](#about)
-* [Installation](#install)[<img src="https://github.com/webmin-devel/webmin/blob/master/media/download-23x14-stable.png?raw=true" title="Stable Versions">](http://webmin.com/download.html)[<img src="https://github.com/webmin-devel/webmin/blob/master/media/download-23x14-devel.png?raw=true" title="Development Versions">](http://webmin.com/devel.html)
+* [Installation](#installation)[<img src="https://github.com/webmin-devel/webmin/blob/master/media/download-23x14-stable.png?raw=true" title="Stable Versions">](http://webmin.com/download.html)[<img src="https://github.com/webmin-devel/webmin/blob/master/media/download-23x14-devel.png?raw=true" title="Development Versions">](http://webmin.com/devel.html)
 * [Documentation](#documentation)
 * [Development](#development)
 * [License](#license)
