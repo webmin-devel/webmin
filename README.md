@@ -1,7 +1,8 @@
 ## Contents
 * [Changelog](https://github.com/webmin-devel/webmin/blob/master/CHANGELOG.md)
 * [About](#about)
-* [Install](#install)[<img src="https://camo.githubusercontent.com/5481be3aeae21f33f5db53cfe13a2eebda73f897/68747470733a2f2f726f73746f76747365762e696f2f7075622f6d656469612f69636f6e732f646f776e6c6f61642d32337831342e706e67" title="Stable Versions">](http://webmin.com/download.html)[<img src="https://rostovtsev.io/pub/media/icons/download-23x14-devel.png" title="Development Versions">](http://webmin.com/devel.html)
+* [Installation](#install)[<img src="https://camo.githubusercontent.com/5481be3aeae21f33f5db53cfe13a2eebda73f897/68747470733a2f2f726f73746f76747365762e696f2f7075622f6d656469612f69636f6e732f646f776e6c6f61642d32337831342e706e67" title="Stable Versions">](http://webmin.com/download.html)[<img src="https://rostovtsev.io/pub/media/icons/download-23x14-devel.png" title="Development Versions">](http://webmin.com/devel.html)
+* [Documentation](#documentation)
 * [Development](#development)
 * [License](#license)
 
@@ -22,7 +23,7 @@ Webmin includes _116_ [standard modules](https://doxfer.webmin.com/Webmin/Webmin
 ### Requirements
 Perl 5.10 or higher.
 
-## Install
+## Installation
 Webmin can be installed in two different ways:
 
  1. By downloading a pre-built package, available for different distributions (CentOS, Fedora, SuSE, Mandriva, Debian, Ubuntu, Solaris and [other](http://www.webmin.com/support.html)) from our [download page](http://webmin.com/download.html);
@@ -30,6 +31,9 @@ Webmin can be installed in two different ways:
 
  2. By downloading, extracting [source file](https://prdownloads.sourceforge.net/webadmin/webmin-1.910.tar.gz), and running [_setup.sh_](http://www.webmin.com/tgz.html) script, with no arguments, which will setup to run it directly from this directory, or with a command-line argument, such as targeted directory.
   <kbd>Note: If you are installing Webmin [on Windows](http://www.webmin.com/windows.html) system, you must run the command `perl setup.pl` instead. The Windows version depends on several programs, and modules that may not be part of the standard distribution. You will need _process.exe_ commmand, _sc.exe_ command, and _Win32::Daemon_ Perl module.</kbd>
+
+## Documentation
+Complete set of documentation for Webmin and all of its modules can be found on out [Wiki page](https://doxfer.webmin.com/Webmin/Main_Page).
 
 ## Development
 
