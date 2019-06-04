@@ -1,5 +1,5 @@
 ## Contents
-* [Changelog](https://github.com/webmin/webmin/blob/master/CHANGELOG.md)
+* [Changelog](https://github.com/webmin-devel/webmin/blob/master/CHANGELOG.md)
 * [About](#about)
 * [Install](#install)[<img src="https://camo.githubusercontent.com/5481be3aeae21f33f5db53cfe13a2eebda73f897/68747470733a2f2f726f73746f76747365762e696f2f7075622f6d656469612f69636f6e732f646f776e6c6f61642d32337831342e706e67" title="Stable Versions">](http://webmin.com/download.html)[<img src="https://rostovtsev.io/pub/media/icons/download-23x14-devel.png" title="Development Versions">](http://webmin.com/devel.html)
 * [Development](#development)
@@ -11,7 +11,7 @@
 
 ![](https://github.com/webmin-devel/webmin/blob/master/media/webmin-demo.gif?raw=true)
 
-It can be expanded by installing modules, which can be custom made. Aside from this, there are two other major projects that extend its functionality:
+Usability can be expanded by installing modules, which can be custom made. Aside from this, there are two other major projects that extend its functionality:
 
 * [Virtualmin](https://www.virtualmin.com) is a powerful, flexible, most popular, and most comprehensive web-hosting control panel for Linux, and BSD systems, with over _100,000_ installations worldwide. It is available in an open-source community-supported version, and a more feature-filled version with premium support;
 * [Usermin](https://github.com/webmin/usermin) presents and controls a subset of user-centred features, rather than administrator-level tasks.
