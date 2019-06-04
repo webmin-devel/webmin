@@ -13,6 +13,8 @@
 
 Webmin includes _116_ [standard modules](https://doxfer.webmin.com/Webmin/Webmin_Modules), and there are at least as many third-party modules.
 
+![](https://github.com/webmin-devel/webmin/blob/master/media/webmin-demo.gif?raw=true)
+
 ### Requirements
 Perl 5.10 or higher.
 
