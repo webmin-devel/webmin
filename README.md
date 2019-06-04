@@ -31,7 +31,7 @@ Webmin can be installed in two different ways:
 
 * [Jamie Cameron](http://www.webmin.com/about.html) [![](https://rostovtsev.io/pub/media/icons/linkedin-15x15.png)](https://www.linkedin.com/in/jamiecameron2)
 
-### Contributions
+### Contributors
 
 * [Joe Cooper](https://github.com/swelljoe)
 * [Ilia Rostovtsev](https://github.com/rostovtsev)
