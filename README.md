@@ -1,7 +1,7 @@
 ## Contents
 * [Changelog](https://github.com/webmin-devel/webmin/blob/master/CHANGELOG.md)
 * [About](#about)
-* [Installation](#install)[<img src="https://camo.githubusercontent.com/5481be3aeae21f33f5db53cfe13a2eebda73f897/68747470733a2f2f726f73746f76747365762e696f2f7075622f6d656469612f69636f6e732f646f776e6c6f61642d32337831342e706e67" title="Stable Versions">](http://webmin.com/download.html)[<img src="https://rostovtsev.io/pub/media/icons/download-23x14-devel.png" title="Development Versions">](http://webmin.com/devel.html)
+* [Installation](#install)[<img src="https://github.com/webmin-devel/webmin/blob/master/media/download-23x14-stable.png?raw=true" title="Stable Versions">](http://webmin.com/download.html)[<img src="https://github.com/webmin-devel/webmin/blob/master/media/download-23x14-devel.png?raw=true" title="Development Versions">](http://webmin.com/devel.html)
 * [Documentation](#documentation)
 * [Development](#development)
 * [License](#license)
@@ -39,7 +39,7 @@ Complete set of documentation for Webmin and all of its modules can be found on 
 
 ### Lead developer
 
-* [Jamie Cameron](http://www.webmin.com/about.html) [![](https://rostovtsev.io/pub/media/icons/linkedin-15x15.png)](https://www.linkedin.com/in/jamiecameron2)
+* [Jamie Cameron](http://www.webmin.com/about.html) [![](https://github.com/webmin-devel/webmin/blob/master/media/linkedin-15x15.png?raw=true)](https://www.linkedin.com/in/jamiecameron2)
 
 ### Contributors
 
