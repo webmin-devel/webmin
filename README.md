@@ -33,7 +33,7 @@ Webmin can be installed in two different ways:
   <kbd>Note: If you are installing Webmin [on Windows](http://www.webmin.com/windows.html) system, you must run the command `perl setup.pl` instead. The Windows version depends on several programs, and modules that may not be part of the standard distribution. You will need _process.exe_ commmand, _sc.exe_ command, and _Win32::Daemon_ Perl module.</kbd>
 
 ## Documentation
-Complete set of documentation for Webmin and all of its modules can be found on out [Wiki page](https://doxfer.webmin.com/Webmin/Main_Page).
+Complete set of documentation for Webmin and all of its modules can be found at out [Wiki page](https://doxfer.webmin.com/Webmin/Main_Page).
 
 ## Development
 
